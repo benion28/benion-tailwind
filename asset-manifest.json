@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/benion-tailwind/static/css/main.dfe6d384.chunk.css",
+    "main.js": "/benion-tailwind/static/js/main.f5f23c46.chunk.js",
+    "main.js.map": "/benion-tailwind/static/js/main.f5f23c46.chunk.js.map",
+    "runtime-main.js": "/benion-tailwind/static/js/runtime-main.dae7be90.js",
+    "runtime-main.js.map": "/benion-tailwind/static/js/runtime-main.dae7be90.js.map",
+    "static/js/2.49819ef9.chunk.js": "/benion-tailwind/static/js/2.49819ef9.chunk.js",
+    "static/js/2.49819ef9.chunk.js.map": "/benion-tailwind/static/js/2.49819ef9.chunk.js.map",
+    "index.html": "/benion-tailwind/index.html",
+    "precache-manifest.fc00aa5bec4811bc4d8d1c925ee5e797.js": "/benion-tailwind/precache-manifest.fc00aa5bec4811bc4d8d1c925ee5e797.js",
+    "service-worker.js": "/benion-tailwind/service-worker.js",
+    "static/css/main.dfe6d384.chunk.css.map": "/benion-tailwind/static/css/main.dfe6d384.chunk.css.map",
+    "static/js/2.49819ef9.chunk.js.LICENSE.txt": "/benion-tailwind/static/js/2.49819ef9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae7be90.js",
+    "static/js/2.49819ef9.chunk.js",
+    "static/css/main.dfe6d384.chunk.css",
+    "static/js/main.f5f23c46.chunk.js"
+  ]
+}
